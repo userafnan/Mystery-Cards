@@ -13,5 +13,5 @@ How to Play:
 - Earn Cards: If your guess is correct, you earn the card. Try to collect them all!
 
 Technologies Used:
-Frontend: HTML, CSS, JavaScript
-Database: MySQL
+- Frontend: HTML, CSS, JavaScript
+- Database: MySQL
