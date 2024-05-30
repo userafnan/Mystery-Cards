@@ -9,9 +9,9 @@ Features:
 
 How to Play:
 - Start the Game: Open the game in your web browser.
+- Signin or Login: Enter your username and password.
 - Guess the Pet's Name: Look at the picture of the card and type in your guess.
 - Earn Cards: If your guess is correct, you earn the card. Try to collect them all!
 
 Technologies Used:
-- Frontend: HTML, CSS, JavaScript
-- Database: MySQL
+- HTML, CSS, JavaScript, PHP
