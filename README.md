@@ -14,4 +14,4 @@ How to Play:
 - Earn Cards: If your guess is correct, you earn the card. Try to collect them all!
 
 Technologies Used:
-- HTML, CSS, JavaScript, PHP
+- HTML, CSS, JavaScript, PHP, Bootstrap
