@@ -1,6 +1,6 @@
 # Mystery-Cards
 (In Progress...)
-Mystery Cards, is a web based game. In this game your main goal is to collect as many cards as possible!
+- Mystery Cards, is a web based game. In this game your main goal is to collect as many cards as possible!
 by guessing the pet's name 🐶
 
 Features:
