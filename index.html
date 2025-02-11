@@ -126,7 +126,7 @@
             // Check if the guess is correct
             if(guessed.toLowerCase() == pets[Indexr]){
                 // If correct, display the winning image and option to play again
-                document.getElementById("game").innerHTML = "<img "+win[Indexr]+"></img> <button id='playagain' type='submit' class='btn btn-outline-dark container' style='width: 150px; margin-left: 50px; font-size: larger; font-family: Georgia; font-weight: bolder;' onclick='start()'>Collect The Rest Of The Cards!</button> <p id='note' class='container' style='padding-left: 480px; font-size: 15px; color: #000000; font-family: Georgia; font-weight: bolder;'>*You Can Get Duplicate Cards 🤭*</p>";
+                document.getElementById("game").innerHTML = "<img "+win[Indexr]+"></img> <button id='playagain' type='submit' class='btn btn-outline-dark container' style='width: 150px; margin-left: 50px; font-size: larger; font-family: Georgia; font-weight: bolder;' onclick='start()'>Collect The Rest Of The Cards!</button> <p id='note' class='container' style='padding-left: 480px; font-size: 15px; color: #000000; font-family: Georgia; font-weight: bolder;'>*You Might Get Duplicate Cards 🤭*</p>";
             } else {
                 // If incorrect, prompt the user to try again
                 alert("Oops! Wrong Guess, Try Again 🤓");
